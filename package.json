@@ -1,0 +1,26 @@
+{
+  "name": "vcfvct.github.io",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Source for vcfvct's personal site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve . --listen 4173 --single",
+    "start": "serve . --listen 4173 --single"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcfvct/vcfvct.github.io.git"
+  },
+  "keywords": [],
+  "author": "vcfvct",
+  "license": "CC-BY-3.0",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/vcfvct/vcfvct.github.io/issues"
+  },
+  "homepage": "https://github.com/vcfvct/vcfvct.github.io#readme",
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
